@@ -12,3 +12,4 @@ print("the frondend code again has some issues")
 print("the frondend code don't have any issues")
 
 d = 40
+d = 500
