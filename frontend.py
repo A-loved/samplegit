@@ -13,3 +13,5 @@ print("the frondend code don't have any issues")
 
 d = 40
 d = 500
+
+aks = 33
