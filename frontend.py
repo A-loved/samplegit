@@ -10,3 +10,5 @@ print("The code was tested and there were certain issues in the front end hence 
 print('The isssues with the front end has been rectified')
 print("the frondend code again has some issues")
 print("the frondend code don't have any issues")
+
+d = 40
